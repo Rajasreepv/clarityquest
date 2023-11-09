@@ -1,6 +1,9 @@
 # askmeanythinggame
 
 A new Flutter project.
+A straightforward mobile app designed to help users make quick decisions by answering yes or no questions. It provides a simple and intuitive interface for a seamless user experience.
+
+
 
 ## Getting Started
 
